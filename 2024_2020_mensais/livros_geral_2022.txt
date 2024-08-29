@@ -1,0 +1,241 @@
+Mês	Colocação	Nome do Livro	Autor
+1    	1         	Mais esperto que o diabo	Napoleon Hill
+1    	2         	Torto arado	Itamar Vieira Junior
+1    	3         	Mulheres que correm com os lobos (capa dura)	Clarissa Pinkola Estes
+1    	4         	Amor & gelato	Jenna Evans Welch
+1    	5         	Nas pegadas da alemoa	Ilko Minev
+1    	6         	É assim que acaba	Colleen Hoover
+1    	7         	Do mil ao milhão	Thiago Nigro
+1    	8         	A garota do lago	Charlie Donlea
+1    	9         	Os sete maridos de Evelyn Hugo	Taylor Jenkins Reid
+1    	10        	Os segredos da mente milionária	T. Harv Eker
+1    	11        	Vermelho, branco e sangue azul	Casey McQuiston
+1    	12        	O poder do hábito	Charles Duhigg
+1    	13        	Guardiões de quatro patas	Patrícia Cândido
+1    	14        	Minutos de sabedoria	C. Torres Pastorino
+1    	15        	Mil beijos de garoto	Tillie Cole
+1    	16        	O homem mais rico da Babilônia	George S. Clason
+1    	17        	O poder da autorresponsabilidade	Paulo Vieira
+1    	18        	A revolução dos bichos	George Orwell
+1    	19        	Pai rico, pai pobre - Edição de 20 anos	Robert T. Kiyosak
+1    	20        	Lula - Volume 1	Fernando Morais
+2    	1         	Nas pegadas da alemoa	Ilko Minev
+2    	2         	Mais esperto que o diabo	Napoleon Hill
+2    	3         	Mulheres que correm com os lobos (capa dura)	Clarissa Pinkola Estes
+2    	4         	Coragem para crescer	Marcos Freitas
+2    	5         	Amor & gelato	Jenna Evans Welch
+2    	6         	A garota do lago	Charlie Donlea
+2    	7         	É assim que acaba	Colleen Hoover
+2    	8         	Do mil ao milhão	Thiago Nigro
+2    	9         	O homem mais rico da Babilônia	George S. Clason
+2    	10        	Os segredos da mente milionária	T. Harv Eker
+2    	11        	Torto arado	Itamar Vieira Junior
+2    	12        	Os sete maridos de Evelyn Hugo	Taylor Jenkins Reid
+2    	13        	O poder do hábito	Charles Duhigg
+2    	14        	Os dois morrem no final	Adam Silvera
+2    	15        	365 dias de inteligência	Augusto Cury
+2    	16        	Vade Mecum Saraiva 2022 - 33ª Edição	Saraiva
+2    	17        	Vermelho, branco e sangue azul	Casey McQuiston
+2    	18        	A coragem de ser imperfeito	Brené Brown
+2    	19        	Mil beijos de garoto	Tillie Cole
+2    	20        	Mindset	Carol Dweck
+3    	1         	Vade Mecum Saraiva 2022 - 33ª Edição	Saraiva
+3    	2         	Mais esperto que o diabo	Napoleon Hill
+3    	3         	É assim que acaba	Colleen Hoover
+3    	4         	Mulheres que correm com os lobos (capa dura)	Clarissa Pinkola Estes
+3    	5         	Amor & gelato	Jenna Evans Welch
+3    	6         	Os dois morrem no final	Adam Silvera
+3    	7         	A garota do lago	Charlie Donlea
+3    	8         	Os sete maridos de Evelyn Hugo	Taylor Jenkins Reid
+3    	9         	Vermelho, branco e sangue azul	Casey McQuiston
+3    	10        	Torto arado	Itamar Vieira Junior
+3    	11        	Do mil ao milhão	Thiago Nigro
+3    	12        	Nas pegadas da alemoa	Ilko Minev
+3    	13        	Demon Slayer: Kimetsu No Yaiba - 1	Koyoharu Gotouge
+3    	14        	Todas as suas (im)perfeições	Colleen Hoover
+3    	15        	Negócio escalável	Oséias Gomes
+3    	16        	Os segredos da mente milionária	T. Harv Eker
+3    	17        	8 caminhos que levam à riqueza	Pablo Marçal
+3    	18        	Mindset	Carol Dweck
+3    	19        	Mil beijos de garoto	Tillie Cole
+3    	20        	O poder do hábito	Charles Duhigg
+4    	1         	Vade Mecum Saraiva 2022 - 33ª Edição	Saraiva
+4    	2         	Mais esperto que o diabo	Napoleon Hill
+4    	3         	Mulheres que correm com os lobos (capa dura)	Clarissa Pinkola Estes
+4    	4         	É assim que acaba	Colleen Hoover
+4    	5         	8 caminhos que levam à riqueza	Pablo Marçal
+4    	6         	Amor & gelato	Jenna Evans Welch
+4    	7         	Os sete maridos de Evelyn Hugo	Taylor Jenkins Reid
+4    	8         	Torto arado	Itamar Vieira Junior
+4    	9         	Especialista em pessoas	Tiago Brunet
+4    	10        	Os segredos da mente milionária	T. Harv Eker
+4    	11        	Do mil ao milhão	Thiago Nigro
+4    	12        	Heartstopper: Dois garotos, um encontro	Alice Oseman
+4    	13        	Quem pensa enriquece: o legado	Napoleon Hill
+4    	14        	O homem mais rico da Babilônia	George S. Clason
+4    	15        	Vermelho, branco e sangue azul	Casey McQuiston
+4    	16        	A coragem de ser imperfeito	Brené Brown
+4    	17        	O poder da cura	Padre Reginaldo Manzotti
+4    	18        	Mil beijos de garoto	Tillie Cole
+4    	19        	A garota do lago	Charlie Donlea
+4    	20        	Jujutsu Kaisen 0	Gege Akutami
+5    	1         	Heartstopper: Dois garotos, um encontro	Alice Oseman
+5    	2         	O poder da autorresponsabilidade	Paulo Vieira
+5    	3         	Mais esperto que o diabo	Napoleon Hill
+5    	4         	Heartstopper: Minha pessoa favorita	Alice Oseman
+5    	5         	É assim que acaba	Colleen Hoover
+5    	6         	Heartstopper: Um passo adiante (capa dura)	Alice Oseman
+5    	7         	O poder da cura	Padre Reginaldo Manzotti
+5    	8         	Torto arado	Itamar Vieira Junior
+5    	9         	Amor & gelato	Jenna Evans Welch
+5    	10        	One Piece 3 em 1 Vol. 1	Eiichiro Oda
+5    	11        	Mulheres que correm com os lobos (capa dura)	Clarissa Pinkola Estes
+5    	12        	Vade Mecum Saraiva 2022 - 33ª Edição	Saraiva
+5    	13        	Nas pegadas da alemoa	Ilko Minev
+5    	14        	Arquiteto empreendedor	Fábio Ordones / Lucas Almeida / Pedro Greghi
+5    	15        	Especialista em pessoas	Tiago Brunet
+5    	16        	Quem pensa enriquece: o legado	Napoleon Hill
+5    	17        	Os sete maridos de Evelyn Hugo	Taylor Jenkins Reid
+5    	18        	Os segredos da mente milionária	T. Harv Eker
+5    	19        	Violeta	Isabel Allende
+5    	20        	Do mil ao milhão	Thiago Nigro
+6    	1         	Mais esperto que o diabo	Napoleon Hill
+6    	2         	É assim que acaba	Colleen Hoover
+6    	3         	Meu jeito de dizer que te amo	Anderson Cavalcante
+6    	4         	Nas pegadas da alemoa	Ilko Minev
+6    	5         	O poder da autorresponsabilidade	Paulo Vieira
+6    	6         	Heartstopper: Dois garotos, um encontro	Alice Oseman
+6    	7         	Mulheres que correm com os lobos (capa dura)	Clarissa Pinkola Estes
+6    	8         	Amor & gelato	Jenna Evans Welch
+6    	9         	Demon Slayer: Kimetsu No Yaiba - 1	Koyoharu Gotouge
+6    	10        	DNA revelado das emoções	Elainne Ourives
+6    	11        	Heartstopper: Minha pessoa favorita	Alice Oseman
+6    	12        	Dê propósito	João Branco
+6    	13        	Torto arado	Itamar Vieira Junior
+6    	14        	Heartstopper: Um passo adiante (capa dura)	Alice Oseman
+6    	15        	One Piece 3 em 1 Vol. 1	Eiichiro Oda
+6    	16        	O poder do hábito	Charles Duhigg
+6    	17        	Quem pensa enriquece: o legado	Napoleon Hill
+6    	18        	Os sete maridos de Evelyn Hugo	Taylor Jenkins Reid
+6    	19        	Do mil ao milhão	Thiago Nigro
+6    	20        	O poder da cura	Padre Reginaldo Manzotti
+7    	1         	É assim que acaba	Colleen Hoover
+7    	2         	Escravidão -Vol 3	Laurentino Gomes
+7    	3         	Nas pegadas da alemoa	Ilko Minev
+7    	4         	O poder da autorresponsabilidade	Paulo Vieira
+7    	5         	Mais esperto que o diabo	Napoleon Hill
+7    	6         	Amor & gelato	Jenna Evans Welch
+7    	7         	A hipótese do amor	Ali Hazelwood
+7    	8         	Heartstopper: Dois garotos, um encontro	Alice Oseman
+7    	9         	Heartstopper: De mãos dadas	Alice Oseman
+7    	10        	Mulheres que correm com os lobos (capa dura)	Clarissa Pinkola Estes
+7    	11        	Especialista em pessoas	Tiago Brunet
+7    	12        	Os sete maridos de Evelyn Hugo	Taylor Jenkins Reid
+7    	13        	Luluca - No mundo da moda - Edição especial	Luluca
+7    	14        	Os dois morrem no final	Adam Silvera
+7    	15        	One Piece 3 em 1 Vol. 1	Eiichiro Oda
+7    	16        	Torto arado	Itamar Vieira Junior
+7    	17        	Quem pensa enriquece: o legado	Napoleon Hill
+7    	18        	Heartstopper: Minha pessoa favorita	Alice Oseman
+7    	19        	A garota do lago	Charlie Donlea
+7    	20        	Luiza Helena – Mulher do Brasil	Pedro Bial
+8    	1         	O poder da cura	Padre Reginaldo Manzotti
+8    	2         	É assim que acaba	Colleen Hoover
+8    	3         	A hipótese do amor	Ali Hazelwood
+8    	4         	Mais esperto que o diabo	Napoleon Hill
+8    	5         	Em mim basta!	William Sanches
+8    	6         	Nas pegadas da alemoa	Ilko Minev
+8    	7         	Spy X Family Vol 01	Tatsuya Endo
+8    	8         	Escravidão -Vol 3	Laurentino Gomes
+8    	9         	Amor & gelato	Jenna Evans Welch
+8    	10        	O poder da autorresponsabilidade	Paulo Vieira
+8    	11        	Mulheres que correm com os lobos (capa dura)	Clarissa Pinkola Estes
+8    	12        	Os sete maridos de Evelyn Hugo	Taylor Jenkins Reid
+8    	13        	Faça sua comunicação enriquecer você	Tathiane Deandhela
+8    	14        	Passaporte 2030	Guilherme Fiuza
+8    	15        	Torto arado	Itamar Vieira Junior
+8    	16        	Minutos de sabedoria	C. Torres Pastorino
+8    	17        	Especialista em pessoas	Tiago Brunet
+8    	18        	Heartstopper: Dois garotos, um encontro	Alice Oseman
+8    	19        	Reencontro com a vida	Sonia Hernandes
+8    	20        	Mindset	Carol Dweck
+9    	1         	É assim que acaba	Colleen Hoover
+9    	2         	O poder da cura	Padre Reginaldo Manzotti
+9    	3         	Nas pegadas da alemoa	Ilko Minev
+9    	4         	O poder da autorresponsabilidade	Paulo Vieira
+9    	5         	Vade Mecum Saraiva 2022 - 34ª Edição	Saraiva
+9    	6         	Mais esperto que o diabo	Napoleon Hill
+9    	7         	Passaporte 2030	Guilherme Fiuza
+9    	8         	A hipótese do amor	Ali Hazelwood
+9    	9         	Amor & gelato	Jenna Evans Welch
+9    	10        	Luiza Helena – Mulher do Brasil	Pedro Bial
+9    	11        	Mulheres que correm com os lobos (capa dura)	Clarissa Pinkola Estes
+9    	12        	Em mim basta!	William Sanches
+9    	13        	Minutos de sabedoria	C. Torres Pastorino
+9    	14        	Torto arado	Itamar Vieira Junior
+9    	15        	Diamantes invisíveis	Paulo de Paula / Iveraldo Guimarães
+9    	16        	Escravidão -Vol 3	Laurentino Gomes
+9    	17        	Quem pensa enriquece: o legado	Napoleon Hill
+9    	18        	Todas as suas (im)perfeições	Colleen Hoover
+9    	19        	Os segredos da mente milionária	T. Harv Eker
+9    	20        	Os sete maridos de Evelyn Hugo	Taylor Jenkins Reid
+10   	1         	É assim que acaba	Colleen Hoover
+10   	2         	Nas pegadas da alemoa	Ilko Minev
+10   	3         	É assim que começa	Colleen Hoover
+10   	4         	A hipótese do amor	Ali Hazelwood
+10   	5         	Mais esperto que o diabo	Napoleon Hill
+10   	6         	Amor & gelato	Jenna Evans Welch
+10   	7         	Passaporte 2030	Guilherme Fiuza
+10   	8         	Seja (im)perfeito	Vários
+10   	9         	As aventuras de Mike 3: mudando de casa	Gabriel Dearo / Manu Digilio
+10   	10        	Mulheres que correm com os lobos (capa dura)	Clarissa Pinkola Estes
+10   	11        	Educar é um ato de amor, mas também é ciência	Telma Abrahão
+10   	11        	Em mim basta!	William Sanches
+10   	13        	Em busca de mim	Viola Davis
+10   	14        	O poder da cura	Padre Reginaldo Manzotti
+10   	15        	Todas as suas (im)perfeições	Colleen Hoover
+10   	16        	O poder da autorresponsabilidade	Paulo Vieira
+10   	17        	Vade Mecum Saraiva 2022 - 34ª Edição	Saraiva
+10   	18        	Especialista em pessoas	Tiago Brunet
+10   	19        	Ouvir, agir e encantar	Guilherme Juliani / Eduardo Cosomano
+10   	20        	Você aguenta ser feliz?	Nizan Guanaes / Arthur Guerra
+11   	1         	É assim que começa	Colleen Hoover
+11   	2         	É assim que acaba	Colleen Hoover
+11   	3         	Nas pegadas da alemoa	Ilko Minev
+11   	4         	Mais esperto que o diabo	Napoleon Hill
+11   	5         	Minutos de sabedoria	C. Torres Pastorino
+11   	6         	A hipótese do amor	Ali Hazelwood
+11   	7         	Mulheres que correm com os lobos (capa dura)	Clarissa Pinkola Estes
+11   	8         	Amor & gelato	Jenna Evans Welch
+11   	9         	Torto arado	Itamar Vieira Junior
+11   	10        	Passaporte 2030	Guilherme Fiuza
+11   	11        	Você aguenta ser feliz?	Nizan Guanaes / Arthur Guerra
+11   	12        	Os segredos da mente milionária	T. Harv Eker
+11   	13        	Algoritmos do Universo	Elainne Ourives
+11   	14        	O verdadeiro Ho'oponopono	Amanda Dreher
+11   	15        	Fogo & sangue	George R. R. Martin
+11   	16        	As aventuras de Mike 3: mudando de casa	Gabriel Dearo / Manu Digilio
+11   	17        	Verity	Colleen Hoover
+11   	18        	O poder da cura	Padre Reginaldo Manzotti
+11   	19        	Como fazer amigos e influenciar pessoas	Dale Carnegie
+11   	20        	Quem pensa enriquece: o legado	Napoleon Hill
+12   	1         	É assim que começa	Colleen Hoover
+12   	2         	É assim que acaba	Colleen Hoover
+12   	3         	Mais esperto que o diabo	Napoleon Hill
+12   	4         	Nas pegadas da alemoa	Ilko Minev
+12   	5         	Mulheres que correm com os lobos (capa dura)	Clarissa Pinkola Estes
+12   	6         	Minutos de sabedoria	C. Torres Pastorino
+12   	7         	Leader Coach	José Roberto Marques
+12   	8         	A hipótese do amor	Ali Hazelwood
+12   	9         	A biblioteca da meia-noite	Matt Haig
+12   	10        	A mandíbula de Caim	Torquemada (Edward Powys Mathers)
+12   	11        	Amor & gelato	Jenna Evans Welch
+12   	12        	Torto arado	Itamar Vieira Junior
+12   	13        	Tudo é rio	Carla Madeira
+12   	14        	Eu e esse meu coração	C. C. Hunter
+12   	15        	Todas as suas (im)perfeições	Colleen Hoover
+12   	16        	Diário de um banana - Fräwda Megaxeia	Jeff Kinney
+12   	17        	Você aguenta ser feliz?	Nizan Guanaes / Arthur Guerra
+12   	18        	Os sete maridos de Evelyn Hugo	Taylor Jenkins Reid
+12   	19        	Como fazer amigos e influenciar pessoas	Dale Carnegie
+12   	20        	Verity	Colleen Hoover

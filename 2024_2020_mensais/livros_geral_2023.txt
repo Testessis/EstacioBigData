@@ -1,0 +1,241 @@
+Mês	Colocação	Nome do Livro	Autor
+1    	1         	É assim que começa	Colleen Hoover
+1    	2         	É assim que acaba	Colleen Hoover
+1    	3         	A mandíbula de Caim	Torquemada (Edward Powys Mathers)
+1    	4         	Café com Deus pai	Junior Rostirola
+1    	5         	Mais esperto que o diabo	Napoleon Hill
+1    	6         	O poder da autorresponsabilidade	Paulo Vieira
+1    	7         	O que sobra	Príncipe Harry
+1    	8         	Mulheres que correm com os lobos (capa dura)	Clarissa Pinkola Estes
+1    	9         	A biblioteca da meia-noite	Matt Haig
+1    	10        	Minutos de sabedoria	C. Torres Pastorino
+1    	11        	Como fazer amigos e influenciar pessoas	Dale Carnegie
+1    	12        	A hipótese do amor	Ali Hazelwood
+1    	13        	Amor & gelato	Jenna Evans Welch
+1    	14        	Os segredos da mente milionária	T. Harv Eker
+1    	15        	Todas as suas (im)perfeições	Colleen Hoover
+1    	16        	Quem pensa enriquece: o legado	Napoleon Hill
+1    	17        	Tudo é rio	Carla Madeira
+1    	18        	Verity	Colleen Hoover
+1    	19        	Torto arado	Itamar Vieira Junior
+1    	20        	Os sete maridos de Evelyn Hugo	Taylor Jenkins Reid
+2    	1         	Café com Deus pai	Junior Rostirola
+2    	2         	É assim que acaba	Colleen Hoover
+2    	3         	É assim que começa	Colleen Hoover
+2    	4         	Plenitude	Camila Saraiva Vieira
+2    	5         	Mais esperto que o diabo	Napoleon Hill
+2    	6         	A mandíbula de Caim	Torquemada (Edward Powys Mathers)
+2    	7         	O poder da autorresponsabilidade	Paulo Vieira
+2    	8         	Aprendizado sem limites	Pedro Ernesto Miranda
+2    	9         	O que sobra	Príncipe Harry
+2    	10        	Minutos de sabedoria	C. Torres Pastorino
+2    	11        	A biblioteca da meia-noite	Matt Haig
+2    	12        	Mulheres que correm com os lobos (capa dura)	Clarissa Pinkola Estes
+2    	13        	Verity	Colleen Hoover
+2    	14        	Quem pensa enriquece: o legado	Napoleon Hill
+2    	15        	Como fazer amigos e influenciar pessoas	Dale Carnegie
+2    	16        	Especialista em pessoas	Tiago Brunet
+2    	17        	Torto arado	Itamar Vieira Junior
+2    	18        	O poder da ação	Paulo Vieira
+2    	19        	A hipótese do amor	Ali Hazelwood
+2    	20        	A revolução dos bichos	George Orwell
+3    	1         	Mentes saudáveis, lares felizes	Augusto Cury / Marcus Araujo
+3    	2         	Café com Deus pai	Junior Rostirola
+3    	3         	É assim que acaba	Colleen Hoover
+3    	4         	É assim que começa	Colleen Hoover
+3    	5         	O poder da autorresponsabilidade	Paulo Vieira
+3    	6         	Mulheres que correm com os lobos (capa dura)	Clarissa Pinkola Estes
+3    	7         	Colocando a vida em ordem	Deive Leonardo
+3    	8         	Mais esperto que o diabo	Napoleon Hill
+3    	9         	A biblioteca da meia-noite	Matt Haig
+3    	10        	Onde estão as flores	Ilko Minev
+3    	11        	Vade Mecum Saraiva 2023 - 35ª Edição	Saraiva
+3    	12        	Tudo é rio	Carla Madeira
+3    	13        	A mandíbula de Caim	Torquemada (Edward Powys Mathers)
+3    	14        	A garota do lago	Charlie Donlea
+3    	15        	Minutos de sabedoria	C. Torres Pastorino
+3    	16        	Nunca foi segredo	Padre Reginaldo Manzotti
+3    	17        	Como fazer amigos e influenciar pessoas	Dale Carnegie
+3    	18        	Os sete maridos de Evelyn Hugo	Taylor Jenkins Reid
+3    	19        	Verity	Colleen Hoover
+3    	20        	A hipótese do amor	Ali Hazelwood
+4    	1         	Onde estão as flores	Ilko Minev
+4    	2         	Café com Deus pai	Junior Rostirola
+4    	3         	Mais esperto que o diabo	Napoleon Hill
+4    	4         	É assim que começa	Colleen Hoover
+4    	5         	É assim que acaba	Colleen Hoover
+4    	6         	O poder da autorresponsabilidade	Paulo Vieira
+4    	7         	Nunca foi segredo	Padre Reginaldo Manzotti
+4    	8         	Tudo é rio	Carla Madeira
+4    	9         	Superpotencial	Davi Braga
+4    	10        	A biblioteca da meia-noite	Matt Haig
+4    	11        	Quem pensa enriquece: o legado	Napoleon Hill
+4    	12        	A garota do lago	Charlie Donlea
+4    	13        	Os 7 níveis da consciência	Rodrigo Duprat
+4    	14        	Emoções financeiras	Thiago Godoy
+4    	15        	Minutos de sabedoria	C. Torres Pastorino
+4    	16        	Diário de um banana - Um romance em quadrinhos	Jeff Kinney
+4    	17        	Mulheres que correm com os lobos (capa dura)	Clarissa Pinkola Estes
+4    	18        	A mandíbula de Caim	Torquemada (Edward Powys Mathers)
+4    	19        	Especialista em pessoas	Tiago Brunet
+4    	20        	Mentes saudáveis, lares felizes	Augusto Cury / Marcus Araujo
+5    	1         	Onde estão as flores	Ilko Minev
+5    	2         	Café com Deus pai	Junior Rostirola
+5    	3         	Rita Lee - uma autobiografia	Rita Lee
+5    	4         	Mais esperto que o diabo	Napoleon Hill
+5    	5         	Salvar o fogo (capa dura)	Itamar Vieira Junior
+5    	6         	É assim que acaba	Colleen Hoover
+5    	7         	Você é um projeto de Deus criado para dar certo	Marcos Fiel
+5    	8         	É assim que começa	Colleen Hoover
+5    	9         	Nunca foi segredo	Padre Reginaldo Manzotti
+5    	10        	A biblioteca da meia-noite	Matt Haig
+5    	11        	Tudo é rio	Carla Madeira
+5    	12        	Atlas: A história de Pa Salt	Lucinda Riley / Harry Whittaker
+5    	13        	Diário de um banana - Um romance em quadrinhos	Jeff Kinney
+5    	14        	Menos é mais	Padre Marcelo Rossi
+5    	15        	Mulheres que correm com os lobos (capa dura)	Clarissa Pinkola Estes
+5    	16        	Torto arado	Itamar Vieira Junior
+5    	17        	Quem pensa enriquece: o legado	Napoleon Hill
+5    	18        	One Piece Vol. 1	Eiichiro Oda
+5    	19        	Em mim basta!	William Sanches
+5    	20        	Destrua este diário	Keri Smith
+6    	1         	Rita Lee - outra autobiografia	Rita Lee
+6    	2         	Mais esperto que o diabo	Napoleon Hill
+6    	3         	7+1 passos para conquistar o que mais sonhou	Luiz Hota
+6    	4         	Café com Deus pai	Junior Rostirola
+6    	5         	Onde estão as flores	Ilko Minev
+6    	6         	Rita Lee - uma autobiografia	Rita Lee
+6    	7         	É assim que acaba	Colleen Hoover
+6    	8         	É assim que começa	Colleen Hoover
+6    	9         	A biblioteca da meia-noite	Matt Haig
+6    	10        	Quem pensa enriquece: o legado	Napoleon Hill
+6    	11        	#umdiasemreclamar	Davi Lago / Marcelo Galuppo
+6    	12        	A intenção primeira	Eduardo Moreira
+6    	13        	O poder da autorresponsabilidade	Paulo Vieira
+6    	14        	Não temos estoque... E vendemos muito!	Cássio Canalli
+6    	15        	Os segredos da mente milionária	T. Harv Eker
+6    	16        	Tudo é rio	Carla Madeira
+6    	17        	Diário de um banana - Um romance em quadrinhos	Jeff Kinney
+6    	18        	Menos é mais	Padre Marcelo Rossi
+6    	19        	A revolução dos bichos	George Orwell
+6    	20        	As 48 leis do poder (capa dura)	Robert Greene
+7    	1         	7+1 passos para conquistar o que mais sonhou	Luiz Hota
+7    	2         	A intenção primeira	Eduardo Moreira
+7    	3         	Mais esperto que o diabo	Napoleon Hill
+7    	4         	Café com Deus pai	Junior Rostirola
+7    	5         	A biblioteca da meia-noite	Matt Haig
+7    	6         	É assim que acaba	Colleen Hoover
+7    	7         	É assim que começa	Colleen Hoover
+7    	8         	Onde estão as flores	Ilko Minev
+7    	9         	Você mais saudável	Dani Faria Lima
+7    	10        	Os segredos da mente milionária	T. Harv Eker
+7    	11        	Rita Lee - outra autobiografia	Rita Lee
+7    	12        	Nunca foi segredo	Padre Reginaldo Manzotti
+7    	13        	O poder da autorresponsabilidade	Paulo Vieira
+7    	14        	Quem pensa enriquece: o legado	Napoleon Hill
+7    	15        	Tudo é rio	Carla Madeira
+7    	16        	O segredo das empresas de sucesso	Bruno Soares / Gabriel Leite
+7    	17        	O homem mais rico da Babilônia	George S. Clason
+7    	18        	A revolução dos bichos	George Orwell
+7    	19        	Como fazer amigos e influenciar pessoas	Dale Carnegie
+7    	20        	Minutos de sabedoria	C. Torres Pastorino
+8    	1         	Café com Deus pai	Junior Rostirola
+8    	2         	7+1 passos para conquistar o que mais sonhou	Luiz Hota
+8    	3         	Chega de ser empresidiário	André Menezes
+8    	4         	Nunca foi segredo	Padre Reginaldo Manzotti
+8    	5         	Onde estão as flores	Ilko Minev
+8    	6         	A biblioteca da meia-noite	Matt Haig
+8    	7         	Mais esperto que o diabo	Napoleon Hill
+8    	8         	Amorização	Padre Marcelo Rossi
+8    	9         	É assim que acaba	Colleen Hoover
+8    	10        	É assim que começa	Colleen Hoover
+8    	11        	O poder da autorresponsabilidade	Paulo Vieira
+8    	12        	Tudo é rio	Carla Madeira
+8    	13        	A arte de falar e fazer	Geronimo Theml
+8    	14        	A arte da comunicação de impacto	Shana Wajntraub
+8    	15        	Educação para o futuro	Renato Feder
+8    	16        	Liberdade na alma e dinheiro na conta	Valeska D’Angelo
+8    	17        	O homem mais rico da Babilônia	George S. Clason
+8    	18        	Os segredos da mente milionária	T. Harv Eker
+8    	19        	Minutos de sabedoria	C. Torres Pastorino
+8    	20        	Rita Lee - outra autobiografia	Rita Lee
+9    	1         	Onde estão as flores	Ilko Minev
+9    	2         	Da Silva: a grande fake news da esquerda	Pavinatto
+9    	3         	A biblioteca da meia-noite	Matt Haig
+9    	4         	Nunca foi segredo	Padre Reginaldo Manzotti
+9    	5         	Café com Deus pai	Junior Rostirola
+9    	6         	É assim que começa	Colleen Hoover
+9    	7         	O Deus que destrói sonhos	Rodrigo Bibo
+9    	8         	É assim que acaba	Colleen Hoover
+9    	9         	Tudo é rio	Carla Madeira
+9    	10        	Mais esperto que o diabo	Napoleon Hill
+9    	11        	Minutos de sabedoria	C. Torres Pastorino
+9    	12        	O poder da autorresponsabilidade	Paulo Vieira
+9    	13        	O diário de uma princesa desastrada 2	Maidy Lacerda
+9    	14        	O código dos negócios extraordinários	Marcos Alexandre
+9    	15        	Liderança e gestão de alta performance em vendas	Camely Rabelo / Ricardo Okino
+9    	16        	Os segredos da mente milionária	T. Harv Eker
+9    	17        	O homem mais rico da Babilônia	George S. Clason
+9    	18        	O diário de uma princesa desastrada	Maidy Lacerda
+9    	19        	One Piece Vol. 1	Eiichiro Oda
+9    	20        	Cientista do marketing	Dener Lippert
+10   	1         	Onde estão as flores	Ilko Minev
+10   	2         	One Piece 3 em 1 Vol. 1	Eiichiro Oda
+10   	3         	O cientista e o executivo	Diego Barreto / Sandor Caetano
+10   	4         	Mais esperto que o diabo	Napoleon Hill
+10   	5         	Café com Deus pai - 2024	Junior Rostirola
+10   	6         	A biblioteca da meia-noite	Matt Haig
+10   	7         	Empreenda pelos princípios bíblicos	Oséias Gomes
+10   	8         	O manual da mente humana	Gitânia Vargas / Willian Cardoso
+10   	9         	É assim que começa	Colleen Hoover
+10   	10        	Tudo é rio	Carla Madeira
+10   	11        	O cálice dos Deuses	Rick Riordan
+10   	12        	O livro secreto do escritor	Lilian Cardoso
+10   	13        	É assim que acaba	Colleen Hoover
+10   	14        	Desmarketize-se	João Branco
+10   	15        	O diário de uma princesa desastrada 2	Maidy Lacerda
+10   	16        	Minutos de sabedoria	C. Torres Pastorino
+10   	17        	O diário de uma princesa desastrada	Maidy Lacerda
+10   	18        	O Deus que destrói sonhos	Rodrigo Bibo
+10   	19        	O poder da autorresponsabilidade	Paulo Vieira
+10   	20        	Destrua este diário	Keri Smith
+11   	1         	Onde estão as flores	Ilko Minev
+11   	2         	As aventuras de Mike – A origem de Robson	Gabriel Dearo / Manu Digilio
+11   	3         	Mais esperto que o diabo	Napoleon Hill
+11   	4         	Força, fortaleza!	Marcelo Facchini
+11   	5         	Café com Deus pai - 2024	Junior Rostirola
+11   	6         	Chamando atenção da sorte	Paulo Cesar Tinga
+11   	7         	Admirável mundo louco	Renata Spallicci
+11   	8         	Inquietos por natureza	Adriana Tavares / Alysson Costa / Amanda S. Rangel
+11   	9         	Padrões de alta performance	Napoleon Hill / Joel Jota
+11   	10        	Mente de aço, atitudes de ouro	Tiago Cavalcanti Tabajara
+11   	11        	Diário de um banana - Cabeça oca	Jeff Kinney
+11   	12        	A biblioteca da meia-noite	Matt Haig
+11   	13        	Negócios à prova do amanhã	Luiz Fernando Garcia
+11   	14        	Você brilha quando vive sua verdade	Eduardo Shinyashiki / Kareemi
+11   	15        	Inove para ser único	Johnathan Alves
+11   	16        	Quem pensa enriquece: o legado	Napoleon Hill
+11   	17        	Tudo é rio	Carla Madeira
+11   	18        	Amigos, amores e aquela coisa terrível	Matthew Perry
+11   	19        	Marca pessoal de impacto	Bianca Ladeia
+11   	20        	A mulher em mim (edição com brinde)	Britney Spears
+12   	1         	Café com Deus pai - 2024	Junior Rostirola
+12   	2         	Onde estão as flores	Ilko Minev
+12   	3         	A biblioteca da meia-noite	Matt Haig
+12   	4         	As aventuras de Mike – A origem de Robson	Gabriel Dearo / Manu Digilio
+12   	5         	Tudo é rio	Carla Madeira
+12   	6         	É assim que acaba	Colleen Hoover
+12   	7         	Diário de um banana - Cabeça oca	Jeff Kinney
+12   	8         	Mais esperto que o diabo	Napoleon Hill
+12   	9         	É assim que começa	Colleen Hoover
+12   	10        	Destrua este diário	Keri Smith
+12   	11        	As aventuras de Mike	Gabriel Dearo / Manu Digilio
+12   	12        	Padrões de alta performance	Napoleon Hill / Joel Jota
+12   	13        	Hábitos atômicos	James Clear
+12   	14        	Diário de um banana - Um romance em quadrinhos	Jeff Kinney
+12   	15        	A psicologia financeira	Morgan Housel
+12   	16        	Café com Deus pai	Junior Rostirola
+12   	17        	O Deus que destrói sonhos	Rodrigo Bibo
+12   	18        	Minutos de sabedoria	C. Torres Pastorino
+12   	19        	As 48 leis do poder (capa dura)	Robert Greene
+12   	20        	Essencialismo	Greg McKeown

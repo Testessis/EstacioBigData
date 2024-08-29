@@ -1,0 +1,241 @@
+Mês	Colocação	Nome do Livro	Autor
+1    	1         	A sutil arte de ligar o foda-se	Mark Manson
+1    	2         	Do mil ao milhão	Thiago Nigro
+1    	3         	Mais esperto que o diabo	Napoleon Hill
+1    	4         	Escravidão -Vol 1	Laurentino Gomes
+1    	5         	Como fazer amigos e influenciar pessoas	Dale Carnegie
+1    	6         	O milagre da manhã	Hal Elrod
+1    	7         	Seja foda!	Caio Carneiro
+1    	8         	A garota do lago	Charlie Donlea
+1    	9         	Essa gente	Chico Buarque
+1    	10        	Mindset	Carol Dweck
+1    	11        	O poder da autorresponsabilidade	Paulo Vieira
+1    	12        	21 lições para o século 21	Yuval Noah Harari
+1    	13        	Como fazer amigos e Influenciar pessoas - Edição comemorativa 80 anos	Dale Carnegie
+1    	14        	Sapiens	Yuval Noah Harari
+1    	15        	Diário de um banana - Quebra tudo	Jeff Kinney
+1    	16        	"Luccas Neto em ""Os aventureiros"""	Luccas Neto
+1    	17        	Os segredos da mente milionária	T. Harv Eker
+1    	18        	As aventuras de Mike	Gabriel Dearo / Manu Digilio
+1    	19        	O poder do hábito	Charles Duhigg
+1    	20        	F*deu geral	Mark Manson
+2    	1         	A sutil arte de ligar o foda-se	Mark Manson
+2    	2         	Do mil ao milhão	Thiago Nigro
+2    	3         	Mais esperto que o diabo	Napoleon Hill
+2    	4         	O milagre da manhã	Hal Elrod
+2    	5         	Seja foda!	Caio Carneiro
+2    	6         	Escravidão -Vol 1	Laurentino Gomes
+2    	7         	Mindset	Carol Dweck
+2    	8         	O poder da autorresponsabilidade	Paulo Vieira
+2    	9         	Os segredos da mente milionária	T. Harv Eker
+2    	10        	Como fazer amigos e influenciar pessoas	Dale Carnegie
+2    	11        	Essa gente	Chico Buarque
+2    	12        	Sapiens	Yuval Noah Harari
+2    	13        	"Luccas Neto em ""Os aventureiros"""	Luccas Neto
+2    	14        	21 lições para o século 21	Yuval Noah Harari
+2    	15        	O poder do hábito	Charles Duhigg
+2    	16        	A garota do lago	Charlie Donlea
+2    	17        	O poder da ação	Paulo Vieira
+2    	18        	Minha história	Michelle Obama
+2    	19        	O homem de giz	C. J. Tudor
+2    	20        	A revolução dos bichos	George Orwell
+3    	1         	Mais esperto que o diabo	Napoleon Hill
+3    	2         	A sutil arte de ligar o foda-se	Mark Manson
+3    	3         	Do mil ao milhão	Thiago Nigro
+3    	4         	O milagre da manhã	Hal Elrod
+3    	5         	Seja foda!	Caio Carneiro
+3    	6         	Os segredos da mente milionária	T. Harv Eker
+3    	7         	O poder da autorresponsabilidade	Paulo Vieira
+3    	8         	Felicidade	Mario Sergio Cortella / Leandro Karnal / Luis Felipe Pondé
+3    	9         	Escravidão -Vol 1	Laurentino Gomes
+3    	10        	Mindset	Carol Dweck
+3    	11        	Sapiens	Yuval Noah Harari
+3    	12        	21 lições para o século 21	Yuval Noah Harari
+3    	13        	Minha história	Michelle Obama
+3    	14        	O diário perdido de Gravity Falls	Alex Hirsch
+3    	15        	Como fazer amigos e influenciar pessoas	Dale Carnegie
+3    	16        	A garota do lago	Charlie Donlea
+3    	17        	Especialista em pessoas	Tiago Brunet
+3    	18        	"Luccas Neto em ""Os aventureiros"""	Luccas Neto
+3    	19        	Ansiedade - Como enfrentar o mal do século	Augusto Cury
+3    	20        	As aventuras de Mike	Gabriel Dearo / Manu Digilio
+4    	1         	Mais esperto que o diabo	Napoleon Hill
+4    	2         	Decida vencer	Eduardo Volpato
+4    	3         	Tamo junto	Andréa Fernanda Morais
+4    	4         	Sapiens ( edição de bolso)	Yuval Noah Harari
+4    	5         	Luluca - No mundo dos desafios	Luluca
+4    	6         	Todo santo dia	Andreza Carício
+4    	7         	Box - Alice no país das maravilhas	Lewis Carroll
+4    	8         	Como fazer amigos e Influenciar pessoas - Edição comemorativa 80 anos	Dale Carnegie
+4    	9         	A princesa salva a si mesma neste livro	amanda lovelace
+4    	10        	O poder da autorresponsabilidade	Paulo Vieira
+4    	11        	Box Nórdicos	Vários
+4    	12        	A bruxa não vai para a fogueira neste livro	amanda lovelace
+4    	13        	Pai rico, pai pobre - Edição de 20 anos	Robert T. Kiyosak
+4    	14        	Como fazer amigos e influenciar pessoas	Dale Carnegie
+4    	15        	Box - O essencial da Psicologia	Carl Jung / Sigmund Freud
+4    	16        	21 lições para o século 21	Yuval Noah Harari
+4    	17        	Mais esperto que o diabo (edição de bolso)	Napoleon Hill
+4    	18        	A sutil arte de ligar o foda-se	Mark Manson
+4    	18        	Box - Jane Austen	Jane Austen
+4    	20        	Os quatro segredos sagrados para o amor e a prosperidade	Preethaji / Krishnaji
+5    	1         	Mais esperto que o diabo	Napoleon Hill
+5    	2         	Todo santo dia	Andreza Carício
+5    	3         	Ouse ser diferente	Pedro Superti
+5    	4         	Mulheres que correm com os lobos (capa dura)	Clarissa Pinkola Estes
+5    	5         	Decida vencer	Eduardo Volpato
+5    	6         	Do mil ao milhão	Thiago Nigro
+5    	7         	Box Harry Potter	J. K. Rowling
+5    	8         	A sutil arte de ligar o foda-se	Mark Manson
+5    	9         	Faça o tempo enriquecer você	Tathiane Deandhela
+5    	10        	Box - Alice no país das maravilhas	Lewis Carroll
+5    	11        	Pai rico, pai pobre - Edição de 20 anos	Robert T. Kiyosak
+5    	12        	Economia do desejo	Eduardo Moreira
+5    	13        	O milagre da manhã	Hal Elrod
+5    	13        	Box - Jane Austen	Jane Austen
+5    	15        	Quem pensa enriquece: o legado	Napoleon Hill
+5    	16        	Viver, a que se destina?	Mario Sergio Cortella / Leandro Karnal
+5    	17        	O poder da autorresponsabilidade	Paulo Vieira
+5    	18        	Os segredos da mente milionária	T. Harv Eker
+5    	19        	Felicidade	Mario Sergio Cortella / Leandro Karnal / Luis Felipe Pondé
+5    	20        	Sapiens ( edição de bolso)	Yuval Noah Harari
+6    	1         	Desperte a sua vitória	William Sanches
+6    	2         	DNA da cocriação	Elainne Ourives
+6    	3         	Mais esperto que o diabo	Napoleon Hill
+6    	4         	Box Harry Potter	J. K. Rowling
+6    	5         	Mulheres que correm com os lobos (capa dura)	Clarissa Pinkola Estes
+6    	6         	Do mil ao milhão	Thiago Nigro
+6    	7         	A cantiga dos pássaros e das serpentes	Suzanne Collins
+6    	8         	O milagre da manhã	Hal Elrod
+6    	9         	A sutil arte de ligar o foda-se	Mark Manson
+6    	10        	Pequeno manual antirracista	Djamila Ribeiro
+6    	11        	1984	George Orwell
+6    	12        	O poder da autorresponsabilidade	Paulo Vieira
+6    	13        	Os segredos da mente milionária	T. Harv Eker
+6    	14        	O poder do hábito	Charles Duhigg
+6    	15        	Minha história	Michelle Obama
+6    	16        	Economia do desejo	Eduardo Moreira
+6    	17        	Quem pensa enriquece: o legado	Napoleon Hill
+6    	18        	Pai rico, pai pobre - Edição de 20 anos	Robert T. Kiyosak
+6    	19        	A revolução dos bichos	George Orwell
+6    	20        	Seja foda!	Caio Carneiro
+7    	1         	DNA da cocriação	Elainne Ourives
+7    	2         	Decida vencer	Eduardo Volpato
+7    	3         	Mais esperto que o diabo	Napoleon Hill
+7    	4         	Do mil ao milhão	Thiago Nigro
+7    	5         	Box Harry Potter	J. K. Rowling
+7    	6         	O milagre da manhã	Hal Elrod
+7    	7         	A sutil arte de ligar o foda-se	Mark Manson
+7    	8         	Pequeno manual antirracista	Djamila Ribeiro
+7    	9         	Os segredos da mente milionária	T. Harv Eker
+7    	10        	Pai rico, pai pobre - Edição de 20 anos	Robert T. Kiyosak
+7    	11        	Mulheres que correm com os lobos (capa dura)	Clarissa Pinkola Estes
+7    	12        	O poder do sangue de jesus	Raquel Carpenter
+7    	13        	O fim em doses homeopáticas	Igor Pires
+7    	14        	O poder da autorresponsabilidade	Paulo Vieira
+7    	15        	Mindset	Carol Dweck
+7    	16        	O poder do hábito	Charles Duhigg
+7    	17        	Seja foda!	Caio Carneiro
+7    	18        	A garota do lago	Charlie Donlea
+7    	19        	Textos cruéis demais para serem lidos rapidamente	Igor Pires da Silva / Gabriela Barreira
+7    	20        	A coragem de ser imperfeito	Brené Brown
+8    	1         	Sol da meia-noite	Stephenie Meyer
+8    	2         	Mais esperto que o diabo	Napoleon Hill
+8    	3         	Decida vencer	Eduardo Volpato
+8    	4         	Pai rico, pai pobre - Edição de 20 anos	Robert T. Kiyosak
+8    	5         	Box Harry Potter	J. K. Rowling
+8    	6         	O milagre da manhã	Hal Elrod
+8    	7         	Do mil ao milhão	Thiago Nigro
+8    	8         	Coleção especial Anne de Green Gables	Lucy Maud Montgomery
+8    	9         	A sutil arte de ligar o foda-se	Mark Manson
+8    	10        	Mulheres que correm com os lobos (capa dura)	Clarissa Pinkola Estes
+8    	11        	O tempo da felicidade	Flora Victoria
+8    	12        	Os segredos da mente milionária	T. Harv Eker
+8    	13        	As muralhas vão cair	Padre Reginaldo Manzotti
+8    	14        	O poder do hábito	Charles Duhigg
+8    	15        	Seja foda!	Caio Carneiro
+8    	16        	Mindset	Carol Dweck
+8    	17        	A coragem de ser imperfeito	Brené Brown
+8    	18        	A garota do lago	Charlie Donlea
+8    	19        	O homem mais rico da Babilônia	George S. Clason
+8    	20        	Pequeno manual antirracista	Djamila Ribeiro
+9    	1         	Sol da meia-noite	Stephenie Meyer
+9    	2         	Mais esperto que o diabo	Napoleon Hill
+9    	3         	Box Harry Potter	J. K. Rowling
+9    	4         	Decida vencer	Eduardo Volpato
+9    	5         	As muralhas vão cair	Padre Reginaldo Manzotti
+9    	6         	A sutil arte de ligar o foda-se	Mark Manson
+9    	7         	Do mil ao milhão	Thiago Nigro
+9    	8         	O milagre da manhã	Hal Elrod
+9    	9         	Mulheres que correm com os lobos (capa dura)	Clarissa Pinkola Estes
+9    	10        	Pai rico, pai pobre - Edição de 20 anos	Robert T. Kiyosak
+9    	11        	Coleção especial Anne de Green Gables	Lucy Maud Montgomery
+9    	12        	O poder do hábito	Charles Duhigg
+9    	13        	Seja rico	Bruno Gimenes
+9    	14        	Batismo de fogo	Padre Marcelo Rossi
+9    	15        	A vida mentirosa dos adultos	Elena Ferrante
+9    	16        	Ora ação	Tony Allysson
+9    	17        	Excelência para obstinados	Peixoto Accyoli
+9    	18        	Os segredos da mente milionária	T. Harv Eker
+9    	19        	A coragem de ser imperfeito	Brené Brown
+9    	20        	A era da integridade	Luiz Fernando Lucas
+10   	1         	Decida vencer	Eduardo Volpato
+10   	2         	Mais esperto que o diabo	Napoleon Hill
+10   	3         	A sutil arte de ligar o foda-se	Mark Manson
+10   	4         	Box Harry Potter	J. K. Rowling
+10   	5         	Cresça, apareça e enriqueça	Tiago Fonseca
+10   	6         	Batismo de fogo	Padre Marcelo Rossi
+10   	7         	Sol da meia-noite	Stephenie Meyer
+10   	8         	Do mil ao milhão	Thiago Nigro
+10   	9         	As muralhas vão cair	Padre Reginaldo Manzotti
+10   	10        	Cidade da Lua Crescente: Casa de terra e sangue	Sarah J. Maas
+10   	11        	Mulheres que correm com os lobos (capa dura)	Clarissa Pinkola Estes
+10   	12        	O milagre da manhã	Hal Elrod
+10   	13        	Memórias	Xuxa Meneghel
+10   	14        	Eu sou, eu posso!	Paulo de Paula / Iveraldo Guimarães
+10   	15        	Harry Potter e a pedra filosofal (capa dura)	J. K. Rowling
+10   	16        	Sonhe, acredite e faça	Edmar Castelo / Leandro Castelo / Leonardo Castelo
+10   	17        	Quem pensa enriquece: o legado	Napoleon Hill
+10   	18        	Harry Potter e a câmara secreta (capa dura)	J. K. Rowling
+10   	19        	O poder da autorresponsabilidade	Paulo Vieira
+10   	20        	A coragem de ser imperfeito	Brené Brown
+11   	1         	Mais esperto que o diabo	Napoleon Hill
+11   	2         	Box Harry Potter	J. K. Rowling
+11   	3         	A sutil arte de ligar o foda-se	Mark Manson
+11   	4         	Decida vencer	Eduardo Volpato
+11   	5         	Pequeno manual antirracista	Djamila Ribeiro
+11   	6         	Do mil ao milhão	Thiago Nigro
+11   	7         	Manifesto da autoestima	Patrícia Cândido
+11   	8         	Mulheres que correm com os lobos (capa dura)	Clarissa Pinkola Estes
+11   	9         	O poder da autorresponsabilidade	Paulo Vieira
+11   	10        	O poder da ação ( edição de luxo)	Paulo Vieira
+11   	11        	As muralhas vão cair	Padre Reginaldo Manzotti
+11   	12        	Sol da meia-noite	Stephenie Meyer
+11   	13        	Uma terra prometida	Barack Obama
+11   	14        	Pai rico, pai pobre - Edição de 20 anos	Robert T. Kiyosak
+11   	15        	O milagre da manhã	Hal Elrod
+11   	16        	Batismo de fogo	Padre Marcelo Rossi
+11   	17        	Escolha sua vida	Paula Abreu
+11   	18        	Quem pensa enriquece: o legado	Napoleon Hill
+11   	19        	O poder do hábito	Charles Duhigg
+11   	20        	O homem mais rico da Babilônia	George S. Clason
+12   	1         	Mais esperto que o diabo	Napoleon Hill
+12   	2         	Box Harry Potter	J. K. Rowling
+12   	3         	Atitude positiva diária	Eduardo Volpato
+12   	4         	Uma terra prometida	Barack Obama
+12   	5         	A sutil arte de ligar o foda-se	Mark Manson
+12   	6         	Mulheres que correm com os lobos (capa dura)	Clarissa Pinkola Estes
+12   	7         	A revolução dos bichos	George Orwell
+12   	8         	1984	George Orwell
+12   	9         	Do mil ao milhão	Thiago Nigro
+12   	10        	O poder da ação ( edição de luxo)	Paulo Vieira
+12   	11        	Sol da meia-noite	Stephenie Meyer
+12   	12        	A garota do lago	Charlie Donlea
+12   	13        	O poder da autorresponsabilidade	Paulo Vieira
+12   	14        	Pai rico, pai pobre - Edição de 20 anos	Robert T. Kiyosak
+12   	15        	Diário de um banana - Vai fundo	Jeff Kinney
+12   	16        	Pequeno manual antirracista	Djamila Ribeiro
+12   	17        	Meu diário mágico	Ciranda Cultural
+12   	18        	O homem mais rico da Babilônia	George S. Clason
+12   	19        	O homem de giz	C. J. Tudor
+12   	20        	Assuma o comando da sua vida	Geronimo Theml

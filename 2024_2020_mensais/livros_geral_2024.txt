@@ -1,0 +1,161 @@
+Mês	Colocação	Nome do Livro	Autor
+1    	1         	Café com Deus pai - 2024	Junior Rostirola
+1    	2         	A biblioteca da meia-noite	Matt Haig
+1    	3         	Tudo é rio	Carla Madeira
+1    	4         	É assim que acaba	Colleen Hoover
+1    	5         	Café com Deus pai	Junior Rostirola
+1    	6         	É assim que começa	Colleen Hoover
+1    	7         	Os segredos da mente milionária	T. Harv Eker
+1    	8         	Onde estão as flores	Ilko Minev
+1    	9         	Verity	Colleen Hoover
+1    	10        	Mais esperto que o diabo	Napoleon Hill
+1    	11        	A psicologia financeira	Morgan Housel
+1    	12        	O homem mais rico da Babilônia	George S. Clason
+1    	13        	Hábitos atômicos	James Clear
+1    	14        	Como fazer amigos e influenciar pessoas	Dale Carnegie
+1    	15        	As aventuras de Mike – A origem de Robson	Gabriel Dearo / Manu Digilio
+1    	16        	Papo com Deus - 365 mensagens diárias	Catia Regiely
+1    	17        	O ladrão de raios (nova capa)	Rick Riordan
+1    	18        	Essencialismo	Greg McKeown
+1    	19        	As 48 leis do poder (capa dura)	Robert Greene
+1    	20        	Pai rico, pai pobre - Edição de 20 anos	Robert T. Kiyosak
+2    	1         	Café com Deus pai - 2024	Junior Rostirola
+2    	2         	18 princípios para você evoluir	Charles Mendlowicz
+2    	3         	Inove para ser único	Johnathan Alves
+2    	4         	Mais esperto que o diabo	Napoleon Hill
+2    	5         	A biblioteca da meia-noite	Matt Haig
+2    	6         	Cura da alma	Amanda Dreher
+2    	7         	É assim que acaba	Colleen Hoover
+2    	8         	A (r)evolução do branding	Ana Couto
+2    	9         	Tudo é rio	Carla Madeira
+2    	10        	Papo com Deus - 365 mensagens diárias	Catia Regiely
+2    	11        	Hábitos atômicos	James Clear
+2    	12        	É assim que começa	Colleen Hoover
+2    	13        	Padrões de alta performance	Napoleon Hill / Joel Jota
+2    	14        	A psicologia financeira	Morgan Housel
+2    	15        	Spread love: palavras certas para momentos incertos	Giulliano Puga
+2    	16        	Os segredos da mente milionária	T. Harv Eker
+2    	17        	Como fazer amigos e influenciar pessoas	Dale Carnegie
+2    	18        	O homem mais rico da Babilônia	George S. Clason
+2    	19        	O ladrão de raios (nova capa)	Rick Riordan
+2    	20        	As 48 leis do poder (capa dura)	Robert Greene
+3    	1         	Café com Deus pai - 2024	Junior Rostirola
+3    	2         	Inove para ser único	Johnathan Alves
+3    	3         	Mais esperto que o diabo	Napoleon Hill
+3    	4         	A cada passo	Anderson Birman
+3    	5         	A biblioteca da meia-noite	Matt Haig
+3    	6         	Tudo é rio	Carla Madeira
+3    	7         	18 princípios para você evoluir	Charles Mendlowicz
+3    	8         	Em agosto nos vemos	Gabriel García Márquez
+3    	9         	Vade Mecum Saraiva 2024 - 37ª Edição	Saraiva
+3    	10        	É assim que acaba	Colleen Hoover
+3    	11        	Alma ferida, alma curada	Padre Reginaldo Manzotti
+3    	12        	O avesso da pele	Jeferson Tenório
+3    	13        	A psicologia financeira	Morgan Housel
+3    	14        	Tríade do poder	Márcio Micheli
+3    	15        	Hábitos atômicos	James Clear
+3    	16        	O homem mais rico da Babilônia	George S. Clason
+3    	17        	É assim que começa	Colleen Hoover
+3    	18        	Eu, empreendedor	Leonardo Mack
+3    	19        	A coragem de ser imperfeito	Brené Brown
+3    	20        	Os segredos da mente milionária	T. Harv Eker
+4    	1         	Café com Deus pai - 2024	Junior Rostirola
+4    	2         	Ou vai ou voa	Hendel Favarin / Josef Rubin
+4    	3         	O poder da autorresponsabilidade	Paulo Vieira
+4    	4         	Mais esperto que o diabo	Napoleon Hill
+4    	5         	O ciclo original	Dr Fernando Bastos
+4    	6         	A biblioteca da meia-noite	Matt Haig
+4    	7         	Intoxicação digital	Augusto Cury
+4    	8         	Em agosto nos vemos	Gabriel García Márquez
+4    	9         	Tudo é rio	Carla Madeira
+4    	10        	Passos pequenos, sonhos grandes	Luca Parente
+4    	11        	18 princípios para você evoluir	Charles Mendlowicz
+4    	12        	A cada passo	Anderson Birman
+4    	13        	É assim que acaba	Colleen Hoover
+4    	14        	A psicologia financeira	Morgan Housel
+4    	15        	Hábitos atômicos	James Clear
+4    	16        	Uma família feliz	Raphael Montes
+4    	17        	O livro secreto da carreira	Paula Boarin
+4    	18        	O avesso da pele	Jeferson Tenório
+4    	19        	As 48 leis do poder (capa dura)	Robert Greene
+4    	20        	É assim que começa	Colleen Hoover
+5    	1         	Café com Deus pai - 2024	Junior Rostirola
+5    	2         	O poder da autorresponsabilidade	Paulo Vieira
+5    	3         	Mais esperto que o diabo	Napoleon Hill
+5    	4         	Ou vai ou voa	Hendel Favarin / Josef Rubin
+5    	5         	A biblioteca da meia-noite	Matt Haig
+5    	6         	É assim que acaba	Colleen Hoover
+5    	7         	Mãe, me conta sua história?	Elma Van Vliet
+5    	8         	Tudo é rio	Carla Madeira
+5    	9         	18 princípios para você evoluir	Charles Mendlowicz
+5    	10        	Em agosto nos vemos	Gabriel García Márquez
+5    	11        	Hábitos atômicos	James Clear
+5    	12        	Verity	Colleen Hoover
+5    	13        	O caderno de maldades do Scorpio	Maidy Lacerda
+5    	14        	A psicologia financeira	Morgan Housel
+5    	15        	O Deus que destrói sonhos	Rodrigo Bibo
+5    	16        	Orar faz muito bem!	Pe Alex Nogueira
+5    	17        	O trem tá feio	Gustavo Tubarão
+5    	18        	É assim que começa	Colleen Hoover
+5    	19        	As 48 leis do poder (capa dura)	Robert Greene
+5    	20        	Quem pensa enriquece: o legado	Napoleon Hill
+6    	1         	Café com Deus pai - 2024	Junior Rostirola
+6    	2         	A filha dos rios	Ilko Minev
+6    	3         	Tríade do poder	Márcio Micheli
+6    	4         	O poder da autorresponsabilidade	Paulo Vieira
+6    	5         	É assim que acaba	Colleen Hoover
+6    	6         	As 48 leis do poder (capa dura)	Robert Greene
+6    	7         	A biblioteca da meia-noite	Matt Haig
+6    	8         	One Piece 3 em 1 Vol. 1	Eiichiro Oda
+6    	9         	Tudo é rio	Carla Madeira
+6    	10        	Mais esperto que o diabo	Napoleon Hill
+6    	11        	Vade mecum acadêmico de direito Rideel 2024 - 38ª Ed.	Anne Joyce Angher
+6    	12        	Verity	Colleen Hoover
+6    	13        	Hábitos atômicos	James Clear
+6    	14        	Mente aberta, língua solta	Marcela Miranda
+6    	15        	As 7 inteligências da expansão de negócios	Dema Oliveira
+6    	16        	Mundo mais consciente	Leo Chaves / Vivian Dias / Maurício Dias
+6    	17        	Orar faz muito bem!	Pe Alex Nogueira
+6    	18        	A psicologia financeira	Morgan Housel
+6    	19        	Minutos de sabedoria	C. Torres Pastorino
+6    	20        	É assim que começa	Colleen Hoover
+7    	1         	Novena e festa da Padroeira do Brasil - 2024	Missionários Redentoristas
+7    	2         	Café com Deus pai - 2024	Junior Rostirola
+7    	3         	A filha dos rios	Ilko Minev
+7    	4         	Mundo mais consciente	Leo Chaves / Vivian Dias / Maurício Dias
+7    	5         	É assim que acaba	Colleen Hoover
+7    	6         	Mais esperto que o diabo	Napoleon Hill
+7    	7         	O poder da autorresponsabilidade	Paulo Vieira
+7    	8         	As 48 leis do poder (capa dura)	Robert Greene
+7    	9         	Harry Potter - Meu diário mágico	Marina Evangelista
+7    	10        	A biblioteca da meia-noite	Matt Haig
+7    	11        	O diário de uma princesa desastrada	Maidy Lacerda
+7    	12        	Tudo é rio	Carla Madeira
+7    	13        	É assim que começa	Colleen Hoover
+7    	14        	A psicologia financeira	Morgan Housel
+7    	15        	Hábitos atômicos	James Clear
+7    	16        	Verity	Colleen Hoover
+7    	17        	One Piece 3 em 1 Vol. 1	Eiichiro Oda
+7    	18        	Minutos de sabedoria	C. Torres Pastorino
+7    	19        	As aventuras de Mike – A origem de Robson	Gabriel Dearo / Manu Digilio
+7    	20        	Demon Slayer: Kimetsu No Yaiba - 1	Koyoharu Gotouge
+8    	1         	Novena e festa da Padroeira do Brasil - 2024	Missionários Redentoristas
+8    	2         	É assim que acaba	Colleen Hoover
+8    	3         	É assim que começa	Colleen Hoover
+8    	4         	A filha dos rios	Ilko Minev
+8    	5         	Café com Deus pai - 2024	Junior Rostirola
+8    	6         	O poder da autorresponsabilidade	Paulo Vieira
+8    	7         	É assim que acaba (Edição de colecionador)	Colleen Hoover
+8    	8         	Verity	Colleen Hoover
+8    	9         	Bambino a Roma	Chico Buarque
+8    	10        	As 48 leis do poder (capa dura)	Robert Greene
+8    	11        	Cabeça de campeão	François Ducasse
+8    	12        	A biblioteca da meia-noite	Matt Haig
+8    	13        	A psicologia financeira	Morgan Housel
+8    	14        	É assim que começa (Edição de colecionador)	Colleen Hoover
+8    	15        	Tudo é rio	Carla Madeira
+8    	16        	O ciclo original	Dr Fernando Bastos
+8    	17        	Marketing ideológico	Davi Ribas
+8    	18        	Hábitos atômicos	James Clear
+8    	19        	Minutos de sabedoria	C. Torres Pastorino
+8    	20        	Tempo, dinheiro e atenção	Guilherme Junqueira

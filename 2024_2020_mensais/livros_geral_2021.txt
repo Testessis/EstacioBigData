@@ -1,0 +1,241 @@
+Mês	Colocação	Nome do Livro	Autor
+1    	1         	Mais esperto que o diabo	Napoleon Hill
+1    	2         	A sutil arte de ligar o foda-se	Mark Manson
+1    	3         	Atitude positiva diária	Eduardo Volpato
+1    	4         	Do mil ao milhão	Thiago Nigro
+1    	5         	Pai rico, pai pobre - Edição de 20 anos	Robert T. Kiyosak
+1    	6         	O duque e eu	Julia Quinn
+1    	7         	A revolução dos bichos	George Orwell
+1    	8         	Mulheres que correm com os lobos (capa dura)	Clarissa Pinkola Estes
+1    	9         	Uma terra prometida	Barack Obama
+1    	10        	O poder da autorresponsabilidade	Paulo Vieira
+1    	11        	O poder da ação ( edição de luxo)	Paulo Vieira
+1    	12        	O homem mais rico da Babilônia	George S. Clason
+1    	13        	1984	George Orwell
+1    	14        	O poder do hábito	Charles Duhigg
+1    	15        	O milagre da manhã	Hal Elrod
+1    	16        	O visconde que me amava	Julia Quinn
+1    	17        	Mindset	Carol Dweck
+1    	18        	Meu diário mágico	Ciranda Cultural
+1    	19        	Box Harry Potter	J. K. Rowling
+1    	20        	Torto arado	Itamar Vieira Junior
+2    	1         	Mais esperto que o diabo	Napoleon Hill
+2    	2         	Afirmações positivas para mudar sua realidade	William Sanches
+2    	3         	A sutil arte de ligar o foda-se	Mark Manson
+2    	4         	Pai rico, pai pobre - Edição de 20 anos	Robert T. Kiyosak
+2    	5         	O duque e eu	Julia Quinn
+2    	6         	Do mil ao milhão	Thiago Nigro
+2    	7         	Mulheres que correm com os lobos (capa dura)	Clarissa Pinkola Estes
+2    	8         	Torto arado	Itamar Vieira Junior
+2    	9         	O homem de giz	C. J. Tudor
+2    	10        	O poder da autorresponsabilidade	Paulo Vieira
+2    	11        	O visconde que me amava	Julia Quinn
+2    	12        	A revolução dos bichos	George Orwell
+2    	13        	O milagre da manhã	Hal Elrod
+2    	14        	O poder da ação ( edição de luxo)	Paulo Vieira
+2    	15        	O homem mais rico da Babilônia	George S. Clason
+2    	16        	Atitude positiva diária	Eduardo Volpato
+2    	17        	O poder do hábito	Charles Duhigg
+2    	18        	Medicina do amanhã	Pedro Schestatsky
+2    	19        	1984	George Orwell
+2    	20        	Mindset	Carol Dweck
+3    	1         	Mais esperto que o diabo	Napoleon Hill
+3    	2         	Mulheres que correm com os lobos (capa dura)	Clarissa Pinkola Estes
+3    	3         	Torto arado	Itamar Vieira Junior
+3    	4         	Pai rico, pai pobre - Edição de 20 anos	Robert T. Kiyosak
+3    	5         	Do mil ao milhão	Thiago Nigro
+3    	6         	Faça o amor ser fácil	Thamires Hauch
+3    	7         	Box Harry Potter	J. K. Rowling
+3    	8         	O duque e eu	Julia Quinn
+3    	9         	Mindset	Carol Dweck
+3    	10        	Atitude positiva diária	Eduardo Volpato
+3    	11        	A coragem de ser imperfeito	Brené Brown
+3    	12        	Corte de espinhos e rosas	Sarah J. Maas
+3    	13        	Gestão profissional na prática	Filipe Colombo
+3    	14        	Gotas para os olhos da fé	Pe. Enivaldo Santos Vale
+3    	15        	A sutil arte de ligar o foda-se	Mark Manson
+3    	16        	O milagre da manhã	Hal Elrod
+3    	17        	O poder da autorresponsabilidade	Paulo Vieira
+3    	18        	A garota do lago	Charlie Donlea
+3    	19        	O homem mais rico da Babilônia	George S. Clason
+3    	19        	Minha história	Michelle Obama
+4    	1         	Mais esperto que o diabo	Napoleon Hill
+4    	2         	Faça o amor ser fácil	Thamires Hauch
+4    	3         	Mulheres que correm com os lobos (capa dura)	Clarissa Pinkola Estes
+4    	4         	Torto arado	Itamar Vieira Junior
+4    	5         	A arte de manipular a sorte	Francisco Sosa
+4    	6         	Pai rico, pai pobre - Edição de 20 anos	Robert T. Kiyosak
+4    	7         	Corte de espinhos e rosas	Sarah J. Maas
+4    	8         	A garota do lago	Charlie Donlea
+4    	9         	Box Harry Potter	J. K. Rowling
+4    	10        	Cientista do marketing	Dener Lippert
+4    	11        	Do mil ao milhão	Thiago Nigro
+4    	12        	A coragem de ser imperfeito	Brené Brown
+4    	13        	Mindset	Carol Dweck
+4    	14        	O milagre da manhã	Hal Elrod
+4    	15        	O poder do hábito	Charles Duhigg
+4    	16        	O poder da autorresponsabilidade	Paulo Vieira
+4    	17        	O homem mais rico da Babilônia	George S. Clason
+4    	18        	Box - Obras de George Orwell	George Orwell
+4    	19        	As cinco linguagens do amor	Gary Chapman
+4    	20        	Os segredos da mente milionária	T. Harv Eker
+5    	1         	Mais esperto que o diabo	Napoleon Hill
+5    	2         	Torto arado	Itamar Vieira Junior
+5    	3         	Mulheres que correm com os lobos (capa dura)	Clarissa Pinkola Estes
+5    	4         	A garota do lago	Charlie Donlea
+5    	5         	Box Harry Potter	J. K. Rowling
+5    	6         	A nova batalha	Padre Reginaldo Manzotti
+5    	7         	A coragem de ser imperfeito	Brené Brown
+5    	8         	O milagre da manhã	Hal Elrod
+5    	9         	Todo caminho é sagrado	Beto Colombo
+5    	10        	Corte de espinhos e rosas	Sarah J. Maas
+5    	11        	Pai rico, pai pobre - Edição de 20 anos	Robert T. Kiyosak
+5    	12        	Vermelho, branco e sangue azul	Casey McQuiston
+5    	13        	A rainha vermelha	Victoria Aveyard
+5    	14        	Minutos de sabedoria	C. Torres Pastorino
+5    	15        	Do mil ao milhão	Thiago Nigro
+5    	16        	O poder da autorresponsabilidade	Paulo Vieira
+5    	17        	Confiar	Pe. Mário José Raimondi
+5    	18        	Os segredos da mente milionária	T. Harv Eker
+5    	19        	Mindset	Carol Dweck
+5    	20        	O homem mais rico da Babilônia	George S. Clason
+6    	1         	Mais esperto que o diabo	Napoleon Hill
+6    	2         	Torto arado	Itamar Vieira Junior
+6    	3         	Do mil ao milhão	Thiago Nigro
+6    	4         	Desobedeça	Maurício Benvenutti
+6    	5         	Pai rico, pai pobre - Edição de 20 anos	Robert T. Kiyosak
+6    	6         	A garota do lago	Charlie Donlea
+6    	7         	Mulheres que correm com os lobos (capa dura)	Clarissa Pinkola Estes
+6    	8         	O poder da autorresponsabilidade	Paulo Vieira
+6    	9         	Vermelho, branco e sangue azul	Casey McQuiston
+6    	10        	A revolução dos bichos	George Orwell
+6    	11        	Nova economia	Diego Barreto
+6    	12        	Os segredos da mente milionária	T. Harv Eker
+6    	13        	O homem mais rico da Babilônia	George S. Clason
+6    	14        	Box Harry Potter	J. K. Rowling
+6    	15        	Não aguento mais	Padre Alessandro Campos
+6    	16        	Minutos de sabedoria	C. Torres Pastorino
+6    	17        	A nova batalha	Padre Reginaldo Manzotti
+6    	18        	O poder do hábito	Charles Duhigg
+6    	19        	Mentirosos	E. Lockhart
+6    	20        	Corte de espinhos e rosas	Sarah J. Maas
+7    	1         	Vermelho, branco e sangue azul	Casey McQuiston
+7    	2         	Mentirosos	E. Lockhart
+7    	3         	Escravidão -Vol 2	Laurentino Gomes
+7    	4         	Mais esperto que o diabo	Napoleon Hill
+7    	5         	Torto arado	Itamar Vieira Junior
+7    	6         	Mulheres que correm com os lobos (capa dura)	Clarissa Pinkola Estes
+7    	7         	Do mil ao milhão	Thiago Nigro
+7    	8         	A garota do lago	Charlie Donlea
+7    	9         	O poder da autorresponsabilidade	Paulo Vieira
+7    	10        	Corte de espinhos e rosas	Sarah J. Maas
+7    	11        	Os sete maridos de Evelyn Hugo	Taylor Jenkins Reid
+7    	12        	Pai rico, pai pobre - Edição de 20 anos	Robert T. Kiyosak
+7    	13        	Corte de chamas prateadas	Sarah J. Maas
+7    	14        	A rainha vermelha	Victoria Aveyard
+7    	15        	A seleção	Kiera Cass
+7    	16        	Os segredos da mente milionária	T. Harv Eker
+7    	17        	Minutos de sabedoria	C. Torres Pastorino
+7    	18        	A nova batalha	Padre Reginaldo Manzotti
+7    	19        	O poder do hábito	Charles Duhigg
+7    	20        	Lady Killers: Assassinas em série	Tori Telfer
+8    	1         	Vermelho, branco e sangue azul	Casey McQuiston
+8    	2         	Mentirosos	E. Lockhart
+8    	3         	As 9 leis inegociáveis da vida	Marcel Scalcko
+8    	4         	Mais esperto que o diabo	Napoleon Hill
+8    	5         	Batman/Fortnite Vol. 03	Christos Gage
+8    	6         	Mulheres que correm com os lobos (capa dura)	Clarissa Pinkola Estes
+8    	7         	Os sete maridos de Evelyn Hugo	Taylor Jenkins Reid
+8    	8         	Escravidão -Vol 2	Laurentino Gomes
+8    	9         	Torto arado	Itamar Vieira Junior
+8    	10        	O poder da autorresponsabilidade	Paulo Vieira
+8    	11        	Do mil ao milhão	Thiago Nigro
+8    	12        	A garota do lago	Charlie Donlea
+8    	13        	Os segredos da mente milionária	T. Harv Eker
+8    	14        	Vade Mecum Saraiva 2021 - 31ª Edição	Editora Saraiva
+8    	15        	Amor & gelato	Jenna Evans Welch
+8    	16        	A nova batalha	Padre Reginaldo Manzotti
+8    	17        	Teto para dois	Beth O’Leary
+8    	18        	O poder do hábito	Charles Duhigg
+8    	19        	Pai rico, pai pobre - Edição de 20 anos	Robert T. Kiyosak
+8    	20        	Minutos de sabedoria	C. Torres Pastorino
+9    	1         	Mentirosos	E. Lockhart
+9    	2         	Mais esperto que o diabo	Napoleon Hill
+9    	3         	Vermelho, branco e sangue azul	Casey McQuiston
+9    	4         	Amor & gelato	Jenna Evans Welch
+9    	5         	Mulheres que correm com os lobos (capa dura)	Clarissa Pinkola Estes
+9    	6         	Torto arado	Itamar Vieira Junior
+9    	7         	Os sete maridos de Evelyn Hugo	Taylor Jenkins Reid
+9    	8         	Desistir? Nem pensar!	Roberto Shinyashiki
+9    	9         	Batman/Fortnite Vol. 03	Christos Gage
+9    	10        	A garota do lago	Charlie Donlea
+9    	11        	O poder da autorresponsabilidade	Paulo Vieira
+9    	12        	Batman/Fortnite Vol. 01	Christos Gage
+9    	13        	Corte de espinhos e rosas	Sarah J. Maas
+9    	14        	A rainha vermelha	Victoria Aveyard
+9    	15        	Um de nós está mentindo	Karen McManus
+9    	16        	Vade Mecum Saraiva 2021 - 32ª Edição	Editora Saraiva
+9    	17        	De porta em porta	Luciano Huck
+9    	18        	A coragem de ser imperfeito	Brené Brown
+9    	19        	Do mil ao milhão	Thiago Nigro
+9    	20        	Os segredos da mente milionária	T. Harv Eker
+10   	1         	DNA revelado das emoções	Elainne Ourives
+10   	2         	Batman/Fortnite Vol. 03	Christos Gage
+10   	3         	Mais esperto que o diabo	Napoleon Hill
+10   	4         	Rebeldes têm asas	Rony Meisler / Sergio Pugliese
+10   	5         	Amor & gelato	Jenna Evans Welch
+10   	6         	Mindset milionário	José Roberto Marques
+10   	7         	Mentirosos	E. Lockhart
+10   	8         	A garota do lago	Charlie Donlea
+10   	9         	Mulheres que correm com os lobos (capa dura)	Clarissa Pinkola Estes
+10   	10        	Vermelho, branco e sangue azul	Casey McQuiston
+10   	11        	Os sete maridos de Evelyn Hugo	Taylor Jenkins Reid
+10   	12        	O poder da autorresponsabilidade	Paulo Vieira
+10   	13        	Torto arado	Itamar Vieira Junior
+10   	14        	Vendas à prova de crises	Peixoto Accyoli (organizador)
+10   	15        	É assim que acaba	Colleen Hoover
+10   	16        	My Hero Academia - Vol 1	Kohei Horikoshi
+10   	17        	Vade Mecum Saraiva 2021 - 32ª Edição	Editora Saraiva
+10   	18        	Minutos de sabedoria	C. Torres Pastorino
+10   	19        	Um de nós está mentindo	Karen McManus
+10   	20        	A rainha vermelha	Victoria Aveyard
+11   	1         	Mindset milionário	José Roberto Marques
+11   	2         	Sucesso é o resultado de times apaixonados	Renata Spallicci
+11   	3         	Mais esperto que o diabo	Napoleon Hill
+11   	4         	Os sete maridos de Evelyn Hugo	Taylor Jenkins Reid
+11   	5         	O poder da autorresponsabilidade	Paulo Vieira
+11   	6         	Amor & gelato	Jenna Evans Welch
+11   	7         	Vermelho, branco e sangue azul	Casey McQuiston
+11   	8         	Demon Slayer: Kimetsu No Yaiba - 1	Koyoharu Gotouge
+11   	9         	A garota do lago	Charlie Donlea
+11   	10        	Torto arado	Itamar Vieira Junior
+11   	11        	Mulheres que correm com os lobos (capa dura)	Clarissa Pinkola Estes
+11   	12        	Mil beijos de garoto	Tillie Cole
+11   	13        	Anos de chumbo e ouros contos	Chico Buarque
+11   	14        	É assim que acaba	Colleen Hoover
+11   	15        	Tudo é possível	Filipe Iannie
+11   	16        	Mentirosos	E. Lockhart
+11   	17        	Minutos de sabedoria	C. Torres Pastorino
+11   	18        	Do mil ao milhão	Thiago Nigro
+11   	19        	Os segredos da mente milionária	T. Harv Eker
+11   	20        	A vida invisível de Addie LaRue	V. E. Schwab
+12   	1         	Mindset milionário	José Roberto Marques
+12   	2         	O poder da autorresponsabilidade	Paulo Vieira
+12   	3         	Nas pegadas da alemoa	Ilko Minev
+12   	4         	Os sete maridos de Evelyn Hugo	Taylor Jenkins Reid
+12   	5         	Torto arado	Itamar Vieira Junior
+12   	6         	Amor & gelato	Jenna Evans Welch
+12   	7         	Lula - Volume 1	Fernando Morais
+12   	8         	Mais esperto que o diabo	Napoleon Hill
+12   	9         	Especialista em pessoas	Tiago Brunet
+12   	10        	Mulheres que correm com os lobos (capa dura)	Clarissa Pinkola Estes
+12   	11        	Vermelho, branco e sangue azul	Casey McQuiston
+12   	12        	Contra o sistema da corrupção	Sergio Moro
+12   	13        	Mil beijos de garoto	Tillie Cole
+12   	14        	É assim que acaba	Colleen Hoover
+12   	15        	Box Harry Potter	J. K. Rowling
+12   	16        	Desperte a mulher brilhante que existe em você	Kênia Gama
+12   	17        	A garota do lago	Charlie Donlea
+12   	18        	Demon Slayer: Kimetsu No Yaiba - 1	Koyoharu Gotouge
+12   	19        	Mentirosos	E. Lockhart
+12   	20        	Travessia: de banqueiro a companheiro	Eduardo Moreira
